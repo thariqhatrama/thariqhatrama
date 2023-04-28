@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thariqhatrama
-- 👀 I’m interested in website builder
+- 👀 I’m interested in website builder and data analyst
 - 🌱 I’m currently learning backend developer and data analytics
 - 💞️ I’m looking to collaborate on corporate
 - 📫 How to reach me hit me up on my instagram @staringthemoon
